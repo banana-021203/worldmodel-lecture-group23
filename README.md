@@ -1,1 +1,1 @@
-# worldmodel-lecture-group23
+# 世界モデル講座2024-最終課題用
